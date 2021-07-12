@@ -1,0 +1,65 @@
+main {
+	clear: left;
+}
+section {
+	width: 575px;
+	float: right;
+	padding: 0 20px 20px 20px;
+}
+section h1 {
+	font-size: 150%;
+	padding: .5em 0 .25em 0;
+	margin: 0; 
+}
+section h2 {
+	color: #009c3b;
+	font-size: 130%;
+	padding: .5em 0 .25em 0;
+}
+section h3 {
+	color: #009c3b;
+	padding: 0 0 .25em 0;
+}
+section p {
+	padding-bottom: .5em;
+}
+section blockquote {
+	padding: 0 2em;
+	font-style: italic;
+}
+section ul {
+	padding: 0 0 .25em 1.25em;
+}
+section li {
+	padding-bottom: .35em;
+}
+article {
+	padding: .5em 0;
+	border-top: 2px solid #009c3b;
+	border-bottom: 2px solid #009c3b;
+}
+article h2 {
+	padding-top: 0;
+}
+article h3 {
+	font-size: 105%;
+	padding-bottom: .25em;
+}
+aside {
+	width: 215px;
+	float: right;
+	padding: 0 0 20px 20px;
+}
+aside h2 {
+	color: #009c3b;
+	font-size: 130%;
+	padding: .5em 0 .25em 0;
+}
+
+aside h3 {
+	font-size: 105%;
+	padding-bottom: .25em;
+}
+aside img {
+	padding-bottom: 1em;
+}
